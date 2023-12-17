@@ -3,7 +3,7 @@ This is a simple static weather mobile application created using swiftUI
 
 ## Technologies Used
 - Swift
-- SiftUI
+- SwiftUI
 - Cocoapods
 - SF Symbols.
 - Support Both dark mode and light mode
